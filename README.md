@@ -2,14 +2,13 @@
 [![ORCID]()](https://orcid.org/0000-0001-9907-0743) 
 
 Reviewers:
-|   Publisher   |     Title     |    Badge  |
-|:---:|:------:|             :--------------------------:                     |
+|   Publisher   |     Title     |
+|:---:|:------:|
 |  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm)  [Optics Express](https://opg.optica.org/oe/home.cfm)|   
-|  IEEE   |   "[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) |   
+|  IEEE   |   "[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)  [IEEE Access](https://ieeeaccess.ieee.org/)|   
 |  Elsevier   |   "[Knowledge-based systems](    http://www.journals.elsevier.com/knowledge-based-systems/#description) |   
-OSA Optica Optics Express  
-IEEE IEEE Transactions on Geoscience and Remote Sensing IEEE Access  
-Elsevier 
+
+
 <!--
 **Caoxuheng/Caoxuheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
