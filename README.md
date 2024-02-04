@@ -2,8 +2,11 @@
 [![ORCID]()](https://orcid.org/0000-0001-9907-0743) 
 
 Reviewers:
-|   Publish   |     Title     |
+|   Topic   |     Title     |    Badge  |
 |:---:|:------:|             :--------------------------:                     |
+|  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm)   |   
+|  IEEE   |   "[IEEE Transactions on Geoscience and Remote Sensing]() |   
+
 OSA Optica Optics Express  
 IEEE IEEE Transactions on Geoscience and Remote Sensing IEEE Access  
 Elsevier Knowledge-based systems
