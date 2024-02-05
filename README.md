@@ -2,7 +2,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-Xuheng%20Cao-green)](https://orcid.org/0000-0001-9907-0743)  [![Email](https://img.shields.io/badge/-caoxuheng@tongji.edu.cn-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:caoxuheng@tongji.edu.cn)](mailto:caoxuheng@tongji.edu.cn)
 
 🔭**Reviewers**
-|   Publisher   |     Journarl Name     |
+|   Publisher   |     Journal Name     |
 |:---:|:------:|
 |  Optica   |   [Optica,](https://opg.optica.org/optica/home.cfm)   [Optics Express](https://opg.optica.org/oe/home.cfm)|   
 |  IEEE   |   [IEEE Transactions on Geoscience and Remote Sensing,](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)   [IEEE Access](https://ieeeaccess.ieee.org/)|   
