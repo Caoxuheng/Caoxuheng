@@ -1,5 +1,5 @@
 ### Xuheng Cao
-[![ORCID](https://img.shields.io/badge/--white?style=labelColor=white&logo=orcid)](https://orcid.org/0000-0001-9907-0743)  [![Email](https://img.shields.io/badge/--grey?style=labelColor=grey&logo=Gmail&logoColor=white&link=mailto:caoxuhengcn@gmail.com)](mailto:caoxuhengcn@gmail.com)  
+[![ORCID](https://img.shields.io/badge/--white?logo=orcid&link=https://orcid.org/0000-0001-9907-0743)](https://orcid.org/0000-0001-9907-0743)  [![Email](https://img.shields.io/badge/--white?logo=Gmail&link=mailto:caoxuhengcn@gmail.com)](mailto:caoxuhengcn@gmail.com) [![GoogleScholar](https://img.shields.io/badge/--white?logo=googlescholar&link=https://scholar.google.com/citations?user=Qb_gofkAAAAJ)](https://scholar.google.com/citations?user=Qb_gofkAAAAJ)
 * Currently pursuing the Ph.D. degree in [Tongji University](https://en.tongji.edu.cn/) and [Zhangjiang National Lab](https://www.zjlab.ac.cn/index)
   
 * Conducting research on **infrared remote sensing Calibration** @[Remote Sensing Calibration Laboratory (NIM, China)](https://en.nim.ac.cn/node/380), and **computational imaging** @[Institute of Precision Optical Engineering (IPOE)](https://ipoe.tongji.edu.cn/en/index.htm)
