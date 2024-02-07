@@ -6,7 +6,7 @@
 
 ⚡**Projects**
 <table>
-<tr><th>Image fusion </th><th>PyPi Packages</th></tr>
+<tr><th>Image Fusion </th><th>PyPi Packages</th></tr>
 <tr><td>
 
 |   Tiltle    |
