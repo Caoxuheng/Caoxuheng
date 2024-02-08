@@ -9,7 +9,7 @@
 <tr><th>Image Fusion </th><th>PyPi Packages</th></tr>
 <tr><td>
 
-|   Tiltle    |
+|   Topic    |
 |--|
 | [HSI-MSI Fusion](https://github.com/Caoxuheng/HIFtool) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |   |   
 | [Spectral SR](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |   |   
@@ -17,8 +17,8 @@
 
 |   Tiltle   |
 |--|
-| [imgvision](https://pypi.org/project/imgvision/) ![Numpy](https://img.shields.io/badge/-black?logo=numpy)|   
-| [paddleiv](https://pypi.org/project/paddleiv/) ![Paddle](https://img.shields.io/badge/-black?logo=paddle)|   
+| [imgvision](https://pypi.org/project/imgvision/) ![Numpy](https://img.shields.io/badge/-black?logo=numpy) [![Downloads](https://static.pepy.tech/badge/imgvision)](https://pepy.tech/project/imgvision)|   
+| [paddleiv](https://pypi.org/project/paddleiv/) ![Paddle](https://img.shields.io/badge/-black?logo=paddle) [![Downloads](https://static.pepy.tech/badge/paddleiv)](https://pepy.tech/project/paddleiv)|   
 </td></tr> </table>
 
 🔭**Reviewers**
