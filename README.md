@@ -15,7 +15,7 @@
 | [Spectral SR](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |   |   
 </td><td>
 
-|   Tiltle   |
+|   Title   |
 |--|
 | [imgvision](https://pypi.org/project/imgvision/) ![Numpy](https://img.shields.io/badge/-black?logo=numpy) [![Downloads](https://static.pepy.tech/badge/imgvision)](https://pepy.tech/project/imgvision)|   
 | [paddleiv](https://pypi.org/project/paddleiv/) ![Paddle](https://img.shields.io/badge/-black?logo=paddle) [![Downloads](https://static.pepy.tech/badge/paddleiv)](https://pepy.tech/project/paddleiv)|   
