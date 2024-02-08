@@ -5,7 +5,7 @@
 * Conducting research on:  
     **Infrared Remote Sensing Calibration** @[Remote Sensing Calibration Laboratory (NIM, China)](https://en.nim.ac.cn/node/380)  
     **Computational Imaging** @[Institute of Precision Optical Engineering (IPOE)](https://ipoe.tongji.edu.cn/en/index.htm)  
-    **Remote Sensing Image Processing** @[shanghai institute of technical physics (CAS)](http://english.sitp.cas.cn/)
+    **Remote Sensing Image Processing** @[Shanghai institute of technical physics (CAS)](http://english.sitp.cas.cn/)
 
 ⚡**Projects**
 <table>
