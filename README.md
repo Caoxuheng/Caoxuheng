@@ -1,5 +1,11 @@
 ### Xuheng Cao[![IEEE](https://img.shields.io/badge/--white?style=for-the-badge&logoColor=black&logo=IEEE&link=https://ieeexplore.ieee.org/author/194972524748175)](https://ieeexplore.ieee.org/author/194972524748175)
-[![ORCID](https://img.shields.io/badge/--white?style=plastic&logo=orcid&link=https://orcid.org/0000-0001-9907-0743)](https://orcid.org/0000-0001-9907-0743)  [![Email](https://img.shields.io/badge/--white?style=plastic&logo=Gmail&link=mailto:caoxuhengcn@gmail.com)](mailto:caoxuhengcn@gmail.com) [![GoogleScholar](https://img.shields.io/badge/--white?style=plastic&logo=googlescholar&link=https://scholar.google.com/citations?user=Qb_gofkAAAAJ)](https://scholar.google.com/citations?user=Qb_gofkAAAAJ) [![Baidu](https://img.shields.io/badge/--white?style=plastic&logo=baidu&logoColor=black&link=https://aistudio.baidu.com/personalcenter/thirdview/887197)](https://aistudio.baidu.com/personalcenter/thirdview/887197) 
+[![ORCID](https://img.shields.io/badge/--white?style=plastic&logo=orcid&link=https://orcid.org/0000-0001-9907-0743)](https://orcid.org/0000-0001-9907-0743)
+[![wos](https://img.shields.io/badge/--white?style=plastic&logo=clarivate&logoColor=black)](https://webofscience.clarivate.cn/wos/author/record/GVS-8687-2022)
+[![GoogleScholar](https://img.shields.io/badge/--white?style=plastic&logo=googlescholar&link=https://scholar.google.com/citations?user=Qb_gofkAAAAJ)](https://scholar.google.com/citations?user=Qb_gofkAAAAJ)
+[![Baidu](https://img.shields.io/badge/--white?style=plastic&logo=baidu&logoColor=black&link=https://aistudio.baidu.com/personalcenter/thirdview/887197)](https://aistudio.baidu.com/personalcenter/thirdview/887197)
+[![Email](https://img.shields.io/badge/--white?style=plastic&logo=Gmail&link=mailto:caoxuhengcn@gmail.com)](mailto:caoxuhengcn@gmail.com)
+
+
 * Currently pursuing the Ph.D. degree in [Tongji University](https://en.tongji.edu.cn/) and [Zhangjiang National Lab](https://www.zjlab.ac.cn/index)
   
 * Conducting research on:  
@@ -13,9 +19,9 @@
 <tr><th>Image Fusion </th><th>PyPi Packages</th></tr>
 <tr><td>
 
-|   Topic    |
-|--|
-| [HSI-MSI Fusion](https://github.com/Caoxuheng/HIFtool) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |   |   
+|   Topic    |   Title    |
+|--|--|
+| [HSI-MSI Fusion](https://github.com/Caoxuheng/HIFtool) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) | [uHNTC(FeafusFormer)](https://ieeexplore.ieee.org/document/10415455) [HyMS](https://doi.org/10.1364/OL.473020)|  
 | [Multi-illuminations Fusion](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |   |   
 </td><td>
 
