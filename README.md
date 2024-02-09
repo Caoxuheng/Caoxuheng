@@ -20,9 +20,9 @@
 <tr><td>
 
 |   Topic    |   Title    |
-|--|:--:|
-| [HSI-MSI Fusion](https://github.com/Caoxuheng/HIFtool) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) | [uHNTC(FeafusFormer)](https://ieeexplore.ieee.org/document/10415455) <br>[HyMS](https://doi.org/10.1364/OL.473020)|  
-| [Multi-illuminations Fusion](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |   |   
+|--|:--|
+| [HSI-MSI Fusion](https://github.com/Caoxuheng/HIFtool) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) | * [uHNTC(FeafusFormer)](https://ieeexplore.ieee.org/document/10415455) <br>* [HyMS](https://doi.org/10.1364/OL.473020)  <br> *iDaFormer|  
+| [Multi-illuminations Fusion](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |  PKL-Net |   
 </td><td>
 
 |   Title   |  Badge   |
@@ -34,8 +34,8 @@
 🔭**Reviewers**
 |   Publisher   |     Journal Name     |
 |:---:|:------:|
-|  Optica   |   [Optica,](https://opg.optica.org/optica/home.cfm)   [Optics Express](https://opg.optica.org/oe/home.cfm)|   
-|  IEEE   |   [IEEE Transactions on Geoscience and Remote Sensing,](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)   [IEEE Access](https://ieeeaccess.ieee.org/)|   
+|  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm)  <br>  [Optics Express](https://opg.optica.org/oe/home.cfm)|   
+|  IEEE   |   [IEEE Transactions on Geoscience and Remote Sensing,](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)  <br>  [IEEE Access](https://ieeeaccess.ieee.org/)|   
 |  Elsevier   |   [Knowledge-based systems](    http://www.journals.elsevier.com/knowledge-based-systems/#description) |   
 </td><td>
 
