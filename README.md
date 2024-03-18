@@ -22,7 +22,7 @@
 |   Topic    |   Title    |
 |--|--|
 | [HSI-MSI Fusion](https://github.com/Caoxuheng/HIFtool) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) | * [uHNTC(FeafusFormer)](https://ieeexplore.ieee.org/document/10415455) <br>* [HyMS](https://doi.org/10.1364/OL.473020)  <br> *iDaFormer|  
-| [Multi-illuminations Fusion](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |  *PKL-Net |   
+| [Multi-illuminations Fusion](https://github.com/Caoxuheng/DSR-Net) ![PyTorch](https://img.shields.io/badge/-white?logo=pytorch) |  *[PKL-Net](https://doi.org/10.1364/OL.517007) |   
 </td><td>
 
 |   Title   |  Badge   |
