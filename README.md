@@ -34,7 +34,7 @@
 🔭**Reviewers**
 |   Publisher   |     Journal Name     |
 |:---:|:------:|
-|  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm)  <br>  [Optics Express](https://opg.optica.org/oe/home.cfm)|   
+|  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm)  <br>  [Optics Express](https://opg.optica.org/oe/home.cfm)  <br>  [Applied Optics](https://opg.optica.org/ao/home.cfm)|   
 |  IEEE   |   [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)  <br>  [IEEE Access](https://ieeeaccess.ieee.org/)|   
 |  Elsevier   |   [Knowledge-based systems](    http://www.journals.elsevier.com/knowledge-based-systems/#description) |   
 </td><td>
