@@ -34,10 +34,10 @@
 🔭**Reviewers**
 |   Publisher   |     Journal Name     |
 |:---:|:------:|
-|  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm)  <br>  [Optics Express](https://opg.optica.org/oe/home.cfm)  <br>  [Optics Letters](https://opg.optica.org/ol/home.cfm)|   
+|  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm) <br>  [Optics Letters](https://opg.optica.org/ol/home.cfm)|   
 |  IEEE   |   [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)  <br> [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)  <br> [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)  <br> [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)|   
-|  Elsevier   |   [Knowledge-based systems](    http://www.journals.elsevier.com/knowledge-based-systems/#description) |   
-|  MDPI  |   [Remote sensing](https://www.mdpi.com/journal/remotesensing) |   
+|  Elsevier   |   [Knowledge-based systems](    http://www.journals.elsevier.com/knowledge-based-systems/#description) <br>  [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) |   
+|  MDPI  |   [Remote sensing](https://www.mdpi.com/journal/remotesensing)  |   
 </td><td>
 
 <!--
