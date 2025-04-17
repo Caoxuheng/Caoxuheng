@@ -11,7 +11,6 @@
 * Conducting research on:  
      &emsp;**AI Temperature Control** @[Remote Sensing Calibration Laboratory (NIM, China)](https://en.nim.ac.cn/node/380)  
 &emsp;**Large-area Blackbody System** @[Department of precision instrument (THU)](https://www.tsinghua.edu.cn/dpien/)  
-     
   &emsp;**Computational Imaging** @[Institute of Precision Optical Engineering (IPOE)](https://ipoe.tongji.edu.cn/en/index.htm)  
 
   
