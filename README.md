@@ -37,7 +37,7 @@
 |:---:|:------:|
 |  Optica   |   [Optica](https://opg.optica.org/optica/home.cfm) <br>  [Optics Letters](https://opg.optica.org/ol/home.cfm)|   
 |  IEEE   |   [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)  <br> [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)  <br> [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)  <br> [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)|   
-|  Elsevier   |   [Knowledge-based systems](    http://www.journals.elsevier.com/knowledge-based-systems/#description) <br>  [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) |   
+|  Elsevier   |   [ISPRS Journal of Photogrammetry and Remote Sensing ]( https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) <br>  [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) |   
 
 </td><td>
 
