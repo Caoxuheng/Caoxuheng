@@ -1,82 +1,90 @@
-<!-- markdownlint-disable MD033 MD041 -->
-
 <h1 align="center">Xuheng Cao</h1>
 
 <p align="center">
-  <a href="https://ieeexplore.ieee.org/author/258010419499629">
-    <img src="https://img.shields.io/badge/IEEE-Profile-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0000-0001-9907-0743">
-    <img src="https://img.shields.io/badge/ORCID-0000--0001--9907--0743-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://webofscience.clarivate.cn/wos/author/record/GVS-8687-2022">
-    <img src="https://img.shields.io/badge/Web%20of%20Science-ResearcherID-5E33BF?style=flat-square&logo=clarivate&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=Qb_gofkAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="https://aistudio.baidu.com/personalcenter/thirdview/887197">
-    <img src="https://img.shields.io/badge/Baidu%20AI%20Studio-Profile-2932E1?style=flat-square&logo=baidu&logoColor=white" />
-  </a>
-  <a href="mailto:caoxuhengcn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-caoxuhengcn%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  Ph.D. Student · Computational Imaging · Infrared Calibration · AI Temperature Control
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=Qb_gofkAAAAJ">Google Scholar</a> ·
+  <a href="https://orcid.org/0000-0001-9907-0743">ORCID</a> ·
+  <a href="https://ieeexplore.ieee.org/author/258010419499629">IEEE</a> ·
+  <a href="https://webofscience.clarivate.cn/wos/author/record/GVS-8687-2022">Web of Science</a> ·
+  <a href="mailto:caoxuhengcn@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👋 About Me
+## About
 
 I am currently pursuing the Ph.D. degree at  
 [Tongji University](https://en.tongji.edu.cn/) and [Zhangjiang National Laboratory](https://www.zjlab.ac.cn/index).
 
-My research interests include **computational imaging**, **hyperspectral image fusion**, **AI-based temperature control**, and **large-area blackbody calibration systems**.
+My research focuses on computational imaging, hyperspectral image fusion, infrared radiometric calibration, and AI-based temperature control for blackbody systems.
 
-Currently, I am conducting research on:
+Current research affiliations include:
 
-- **AI Temperature Control**  
-  [Remote Sensing Calibration Laboratory, NIM, China](https://en.nim.ac.cn/node/380)
+- [Remote Sensing Calibration Laboratory, NIM, China](https://en.nim.ac.cn/node/380)  
+  AI temperature control
 
-- **Large-area Blackbody System**  
-  [Department of Precision Instrument, Tsinghua University](https://www.tsinghua.edu.cn/dpien/)
+- [Department of Precision Instrument, Tsinghua University](https://www.tsinghua.edu.cn/dpien/)  
+  Large-area blackbody system
 
-- **Computational Imaging**  
-  [Institute of Precision Optical Engineering, Tongji University](https://ipoe.tongji.edu.cn/en/index.htm)
-
----
-
-## ⚡ Projects
-
-### Image Fusion
-
-| Topic | Repository | Representative Works |
-|---|---|---|
-| HSI–MSI Fusion | [HIFtool](https://github.com/Caoxuheng/HIFtool) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch) | [uHNTC / FeafusFormer](https://ieeexplore.ieee.org/document/10415455) <br> [HyMS](https://doi.org/10.1364/OL.473020) <br> [CaFormer](https://doi.org/10.1016/j.patcog.2025.112374) |
-| Multi-illumination Fusion | [DSR-Net](https://github.com/Caoxuheng/DSR-Net) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch) | [PKL-Net](https://doi.org/10.1364/OL.517007) |
+- [Institute of Precision Optical Engineering, Tongji University](https://ipoe.tongji.edu.cn/en/index.htm)  
+  Computational imaging
 
 ---
 
-## 📦 PyPI Packages
+## Research
 
-| Package | Description | Badge |
-|---|---|---|
-| [imgvision](https://pypi.org/project/imgvision/) | Image processing toolbox | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) [![Downloads](https://static.pepy.tech/badge/imgvision)](https://pepy.tech/project/imgvision) |
-| [paddleiv](https://pypi.org/project/paddleiv/) | PaddlePaddle-based image vision toolbox | ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-black?style=flat-square&logo=paddlepaddle) [![Downloads](https://static.pepy.tech/badge/paddleiv)](https://pepy.tech/project/paddleiv) |
+### Hyperspectral and Multispectral Image Fusion
+
+- [HIFtool](https://github.com/Caoxuheng/HIFtool)  
+  A toolbox for hyperspectral and multispectral image fusion.
+
+Representative works:
+
+- [uHNTC / FeafusFormer](https://ieeexplore.ieee.org/document/10415455)
+- [HyMS](https://doi.org/10.1364/OL.473020)
+- [CaFormer](https://doi.org/10.1016/j.patcog.2025.112374)
+
+### Multi-illumination Image Fusion
+
+- [DSR-Net](https://github.com/Caoxuheng/DSR-Net)  
+  Deep learning-based multi-illumination image fusion.
+
+Representative work:
+
+- [PKL-Net](https://doi.org/10.1364/OL.517007)
 
 ---
 
-## 🔭 Academic Service
+## Software
 
-| Publisher | Journals |
-|---|---|
-| Optica Publishing Group | [Optica](https://opg.optica.org/optica/home.cfm) <br> [Photonics Research](https://opg.optica.org/prj/) |
-| IEEE | [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) <br> [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) <br> [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) <br> [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) <br> [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424) |
-| Elsevier | [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) <br> [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) |
+- [imgvision](https://pypi.org/project/imgvision/)  
+  A lightweight image processing package.
+
+- [paddleiv](https://pypi.org/project/paddleiv/)  
+  An image vision package based on PaddlePaddle.
 
 ---
 
-## 📫 Contact
+## Academic Service
 
-- Email: [caoxuhengcn@gmail.com](mailto:caoxuhengcn@gmail.com)
-- Google Scholar: [Xuheng Cao](https://scholar.google.com/citations?user=Qb_gofkAAAAJ)
-- ORCID: [0000-0001-9907-0743](https://orcid.org/0000-0001-9907-0743)
+I have served as a reviewer for journals published by Optica, IEEE, and Elsevier, including:
+
+- Optica
+- Photonics Research
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Industrial Informatics
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- Information Fusion
+
+---
+
+## Contact
+
+For academic collaboration or discussion, please contact me at  
+[caoxuhengcn@gmail.com](mailto:caoxuhengcn@gmail.com).
