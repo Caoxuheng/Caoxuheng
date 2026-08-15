@@ -49,7 +49,7 @@
 | Publisher | Journal Name |
 |:--:|:--|
 | Optica | [Optica](https://opg.optica.org/optica/home.cfm) <br> [Photonics Research](https://opg.optica.org/prj/) |
-| IEEE | [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) <br> [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) <br> [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) <br> [IEEE Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6245518) <br> [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424) |
+| IEEE | [Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) <br> [Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) <br> [Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) <br> [Geoscience and Remote Sensing Magazine](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6245518) <br> [Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424) |
 | Elsevier | [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) <br> [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) |
 
 <!--
